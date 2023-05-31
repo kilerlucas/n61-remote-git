@@ -1,0 +1,11 @@
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	git_exercice1.log
+
+nothing added to commit but untracked files present (use "git add" to track)
+commit 2bd0398a6355bc57bfbe9a099c38c4755e191bc4
+Author: Kiler <lucaskiler@gmail.com>
+Date:   Wed May 31 10:24:49 2023 -0400
+
+    Initial commit
